@@ -11,12 +11,10 @@
   
   
   <div>
-  <a href="https://instagram.com/gabrielcmohr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/xbpv2KjBpw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielmohfeg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-campregher-mohr-84775a27a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-    <img align="left" alt="code" src="https://i.giphy.com/3o7btOfPKQb7mCLxBu.webp">
+    <img  height=200 align="left" alt="code" src="https://i.pinimg.com/originals/04/d6/73/04d673e7b55f941bf3edee800e72a722.gif">
     
 
 ![snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
