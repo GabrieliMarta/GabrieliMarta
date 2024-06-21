@@ -1,8 +1,4 @@
 
-</div>
-
-
-
 <div align="center">
   <a href="https://github.com/gabrielimarta">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielimarta&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -12,6 +8,7 @@
 </a>
   
 </div>
+
 
 ![snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
 
