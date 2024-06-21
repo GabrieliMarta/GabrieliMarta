@@ -8,12 +8,9 @@
   <a href="https://www.instagram.com/_r0chag._/" target="blank_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="https://github.com/gabrielimarta">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimarta&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/gabrielimarta/gabrielimarta"/>
+</a>
+  
 </div>
 
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ldmfabio/)
-<p><img src="https://profile-counter.glitch.me/{ldmfabio}/count.svg" /></p> 
-
-</div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
